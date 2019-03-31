@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\858f5f2d6fe44b3aa5f6f7d2ff5eebf8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4cd520d5e5c524cc461ef3fbab4a08ac\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8e4c7570cdcd0f5607523e226f996c4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7ec94a7f50403983d1bf4e4dda869b5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\52091ba132a32c3ad116d29472508573\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4a51e9b71cfdbb87c54fda983a1f6b89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2e3f1804c30eaf7cf7e90549439d5f13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\6b4315461fe590431b2756c8688f6c00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\24be3cefd903d79f6de31398a57a55a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c6d5c087fa1dc569c307b9c08550590b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\33481781c0ed09c6d1a9b45de018209f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fdaec833982fda2a33fd1d01d3ad8e6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\45646360bdf677ddca5678b8e95735f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5b8adaffff04e6f9f79a25b86126cd5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d9a5294259b6c0c89214556bd8c1dfc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\189c142a7eba211ac5049d6e045b952e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9117490278122340ccf807821271dc37\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8dca8a262c9c0f8cf5b5908e8c4c56df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4bc91375c0eb9385a70b7255d6814649\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5ad448933ded4f297a18ea42581e0074\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\66ff000a24792a524f0ae1e541c0b95d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ad84cdc6c0cffa672ce994eab0dc52ee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6b8f2887d80187c52033a49ad118bc92\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a7b57d82bad7de68e987e77ce00407b3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\db47d56cce32a6bc661be0470c305f4e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6fd4c173f52cb344f0c35e53e8657649\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5142d21d0ea9f470d13f2660af4797ab\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4cd520d5e5c524cc461ef3fbab4a08ac\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4cd520d5e5c524cc461ef3fbab4a08ac\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\189c142a7eba211ac5049d6e045b952e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\189c142a7eba211ac5049d6e045b952e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9117490278122340ccf807821271dc37\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9117490278122340ccf807821271dc37\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\189c142a7eba211ac5049d6e045b952e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:11:9-40
+activity#ro.pub.cs.systems.eim.practicaltest.PracticalTestSecondaryActivity
+ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:12:9-77
+	android:name
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:12:19-65
+activity#ro.pub.cs.systems.eim.practicaltest.PracticalTestMainActivity
+ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:13:19-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\858f5f2d6fe44b3aa5f6f7d2ff5eebf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\858f5f2d6fe44b3aa5f6f7d2ff5eebf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4cd520d5e5c524cc461ef3fbab4a08ac\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4cd520d5e5c524cc461ef3fbab4a08ac\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8e4c7570cdcd0f5607523e226f996c4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8e4c7570cdcd0f5607523e226f996c4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7ec94a7f50403983d1bf4e4dda869b5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\7ec94a7f50403983d1bf4e4dda869b5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\52091ba132a32c3ad116d29472508573\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\52091ba132a32c3ad116d29472508573\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4a51e9b71cfdbb87c54fda983a1f6b89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4a51e9b71cfdbb87c54fda983a1f6b89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2e3f1804c30eaf7cf7e90549439d5f13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\2e3f1804c30eaf7cf7e90549439d5f13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\6b4315461fe590431b2756c8688f6c00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\6b4315461fe590431b2756c8688f6c00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\24be3cefd903d79f6de31398a57a55a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\24be3cefd903d79f6de31398a57a55a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c6d5c087fa1dc569c307b9c08550590b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c6d5c087fa1dc569c307b9c08550590b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\33481781c0ed09c6d1a9b45de018209f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\33481781c0ed09c6d1a9b45de018209f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fdaec833982fda2a33fd1d01d3ad8e6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fdaec833982fda2a33fd1d01d3ad8e6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\45646360bdf677ddca5678b8e95735f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\45646360bdf677ddca5678b8e95735f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5b8adaffff04e6f9f79a25b86126cd5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\5b8adaffff04e6f9f79a25b86126cd5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d9a5294259b6c0c89214556bd8c1dfc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\d9a5294259b6c0c89214556bd8c1dfc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\189c142a7eba211ac5049d6e045b952e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\189c142a7eba211ac5049d6e045b952e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9117490278122340ccf807821271dc37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9117490278122340ccf807821271dc37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8dca8a262c9c0f8cf5b5908e8c4c56df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8dca8a262c9c0f8cf5b5908e8c4c56df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4bc91375c0eb9385a70b7255d6814649\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4bc91375c0eb9385a70b7255d6814649\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5ad448933ded4f297a18ea42581e0074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5ad448933ded4f297a18ea42581e0074\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\66ff000a24792a524f0ae1e541c0b95d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\66ff000a24792a524f0ae1e541c0b95d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ad84cdc6c0cffa672ce994eab0dc52ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ad84cdc6c0cffa672ce994eab0dc52ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6b8f2887d80187c52033a49ad118bc92\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6b8f2887d80187c52033a49ad118bc92\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a7b57d82bad7de68e987e77ce00407b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\a7b57d82bad7de68e987e77ce00407b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\db47d56cce32a6bc661be0470c305f4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\db47d56cce32a6bc661be0470c305f4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6fd4c173f52cb344f0c35e53e8657649\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6fd4c173f52cb344f0c35e53e8657649\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5142d21d0ea9f470d13f2660af4797ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Beldeanu Calin-Victo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5142d21d0ea9f470d13f2660af4797ab\AndroidManifest.xml:20:5-44
+INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+		ADDED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Drive\OneDrive - University POLITEHNICA of Bucharest\GitHub\PracticalTest\app\src\main\AndroidManifest.xml
